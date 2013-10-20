@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[TellLife]]></title>
+  <subtitle><![CDATA[行走，思考，在路上，No Stop]]></subtitle>
+  <link href="http://telllife.github.io//atom.xml" rel="self"/>
+  <link href="http://telllife.github.io/"/>
+  <updated>2013-10-20T08:11:27.013Z</updated>
+  <id>http://telllife.github.io//</id>
+  <author>
+    <name><![CDATA[TellLife]]></name>
+    <email><![CDATA[zhangcaijie90@gmail.com]]></email>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[第一篇文章]]></title>
+    <link href="http://telllife.github.io/2013/10/20/my-new-post/"/>
+    <id>http://telllife.github.io/2013/10/20/my-new-post/</id>
+    <published>2013-10-20T05:37:43.000Z</published>
+    <updated>2013-10-20T05:55:24.000Z</updated>
+    <content type="html"><![CDATA[<p>这是一篇测试文章，这是我的<a href="http://weibo.com/u/1757206811" target="_blank">新浪微博</a>,谢谢！</p>
+]]></content>
+    <category scheme="http://telllife.github.io/tags/博客/" term="博客"/>
+    <category scheme="http://telllife.github.io/categories/blog/" term="blog"/>
+  </entry>
+</feed>
