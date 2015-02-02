@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[TellLife]]></title>
   <subtitle><![CDATA[行走，思考，在路上，No Stop]]></subtitle>
-  <link href="http://telllife.github.io//atom.xml" rel="self"/>
-  <link href="http://telllife.github.io/"/>
+  <link href="http://dayspics.github.io//atom.xml" rel="self"/>
+  <link href="http://dayspics.github.io/"/>
   <updated>2013-11-07T14:01:22.006Z</updated>
-  <id>http://telllife.github.io//</id>
+  <id>http://dayspics.github.io//</id>
   <author>
     <name><![CDATA[TellLife]]></name>
     <email><![CDATA[zhangcaijie90@gmail.com]]></email>
@@ -13,8 +13,8 @@
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
     <title type="html"><![CDATA[Js闭包入门]]></title>
-    <link href="http://telllife.github.io/2013/11/07/js闭包入门/"/>
-    <id>http://telllife.github.io/2013/11/07/js闭包入门/</id>
+    <link href="http://dayspics.github.io/2013/11/07/js闭包入门/"/>
+    <id>http://dayspics.github.io/2013/11/07/js闭包入门/</id>
     <published>2013-11-07T13:17:58.000Z</published>
     <updated>2013-11-07T13:40:37.000Z</updated>
     <content type="html"><![CDATA[<p>在学习闭包的概念之前，要先了解一下Javascript的变量作用域。  </p>
@@ -196,7 +196,7 @@ print(jack<span class="preprocessor">.getName</span>())<span class="comment">;  
 <hr>
 <p>很早就想总结一下js闭包，但因为前段时间一直在忙的项目被枪毙了，紧接着工作内容开始调整，造成了该计划的拖延。这中间也有自己偷懒的缘故，执行力不到位，以后要注意。善于总结是个很好的习惯，但贵在坚持，以此来记录学习jQuery的日子！</p>
 ]]></content>
-    <category scheme="http://telllife.github.io/tags/Javascript/" term="Javascript"/>
+    <category scheme="http://dayspics.github.io/tags/Javascript/" term="Javascript"/>
     <category scheme="http://telllife.github.io/tags/闭包/" term="闭包"/>
     <category scheme="http://telllife.github.io/categories/Tech/" term="Tech"/>
   </entry>
